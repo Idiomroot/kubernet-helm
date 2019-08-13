@@ -129,7 +129,7 @@ NAME                    CHART VERSION   APP VERSION     DESCRIPTION
 ###### # helm  serve
 ###### Regenerating index. This may take a moment.
 ###### Now serving you on 127.0.0.1:8879
-###### 安装chart可以通过HTTP server的方式提供，访问本机的8879端口。
+###### 打包好的chart可以通过HTTP server的方式提供，访问本机的8879端口即可看到。
 ###### # curl http://127.0.0.1:8879
 ###### <html>
  <head>
