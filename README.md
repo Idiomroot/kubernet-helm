@@ -149,5 +149,5 @@ NAME                    CHART VERSION   APP VERSION     DESCRIPTION
  </body>
  </html>
 注释：
-如果要使用第三方chat库，则需要添加
-比如添加fabric8库：helm repo add fabric8 https://fabric8.io/helm
+######如果要使用第三方chat库，则需要添加
+######比如添加fabric8库：helm repo add fabric8 https://fabric8.io/helm
