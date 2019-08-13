@@ -118,6 +118,10 @@ release "test" deleted
 ###### └── values.yaml
 
 ###### 3 directories, 8 files
+###### 可以通过修改values.yaml文件来指定自己的配置
+###### # vi nginx/values.yaml
+###### 验证chart配置
+###### # helm install --dry-run --debug nginx
 ###### # helm package nginx
 ###### Successfully packaged chart and saved it to: /root/nginx-0.1.0.tgz
 ###### # helm search nginx
